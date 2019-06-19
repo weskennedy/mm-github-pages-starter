@@ -16,7 +16,7 @@
 title: WK
 name: Wesley Kennedy
 email: wesley@wesleykennedy.net
-description: In a complicated relationship with Microsoft SQL Server and .NET since 2006. Data, integration, and automation architect. Fullstack engineer. Co-Founder of <a href="http://www.switcharch.com">Switch Architecture, LLC.</a></BR>
+description: Data, integration, and automation architect. Fullstack engineer. Co-founder of <a href="http://www.switcharch.com">Switch Architecture, LLC.</a> In a complicated relationship with Microsoft SQL Server and .NET since 2006. 
 twitter_username: wesleydkennedy
 github_username: weskennedy
 stackoverflow_username: 11662322
@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Wesley Kennedy"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : 'In a complicated relationship with <strong>Microsoft SQL Server</strong> and <strong>.NET</strong> since 2006.</BR></BR>Data, integration, and automation architect. Fullstack engineer.</BR></BR>Co-Founder of <a href="http://www.switcharch.com">Switch Architecture, LLC.</a></BR>'
+  bio    : 'Data, integration, and automation <strong>architect</strong>. Fullstack <strong>engineer</strong>.</BR></BR><strong>Co-founder</strong> of <a href="http://www.switcharch.com">Switch Architecture, LLC.</a></BR></BR>In a complicated relationship with <strong>Microsoft SQL Server</strong> and <strong>.NET</strong> since 2006.'
   location: "Nashville, Tennessee"
   email  : wesley@wesleykennedy.net
   links:
