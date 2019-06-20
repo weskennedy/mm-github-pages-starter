@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: WK
+title: WK >
 name: Wesley Kennedy
 email: wesley@wesleykennedy.net
 description: Data, integration, and automation architect. Fullstack engineer. Co-founder of <a href="http://www.switcharch.com">Switch Architecture, LLC.</a> In a complicated relationship with Microsoft SQL Server and .NET since 2006. 
@@ -22,7 +22,7 @@ github_username: weskennedy
 stackoverflow_username: 11662322
 linkedin_username: weskennedy
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-search: false
+search: true
 url: https://wwww.wesleykennedy.net
 
 # Build settings
@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Wesley Kennedy"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : 'Data, integration, and automation <strong>architect</strong>. Fullstack <strong>engineer</strong>.</BR></BR><strong>Co-founder</strong> of <a href="http://www.switcharch.com">Switch Architecture, LLC.</a></BR></BR>In a complicated relationship with <strong>Microsoft SQL Server</strong> and <strong>.NET</strong> since 2006.'
+  bio    : 'Data, integration, and automation <strong>architect</strong>. Fullstack <strong>engineer</strong>.</BR></BR><strong>Co-founder</strong> and <strong>Principal Engineer</strong> at <a href="http://www.switcharch.com">Switch Architecture, LLC.</a></BR></BR>In a complicated relationship with <strong>Microsoft SQL Server</strong> and <strong>.NET</strong> since 2006.'
   location: "Nashville, Tennessee"
   email  : wesley@wesleykennedy.net
   links:

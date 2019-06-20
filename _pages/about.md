@@ -1,8 +1,16 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Wes"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+<p>
+Wes is a full stack engineer with a heart for enterprise platforms, data integrations, advanced data sets, and the relational databases and systems that power them. He has a strong history of self-direction on complex projects and an ability to ramp up quickly and work semi-autonomously.
+</p>
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+<p>
+The foundation of his experience is over 12 years solving business problems in the healthcare, supply chain, and financial industries by designing, implementing, and supporting Microsoft-centric software solutions with a specialty the areas of OLTP database development, data warehouse architecture, platform optimization and scaling, .NET and T-SQL development, cloud architecture, web applications, data integrations, high-availability and disaster recovery, systems engineering, cloud platforms, security assessments and testing, release automation, database administration, project leadership, corporate IT, and enterprise platform support.
+</p>
+
+<p>
+Prior to being a Principal Engineer Wes spent almost three years developing his senior leadership skills as Vice President of Engineering at a growing healthcare predictive analytics company that was winner of the Nashville Early Stage Company of the Year award.
+</p>
